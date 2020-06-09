@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Blund</string>
+    <string name="channel_name">Blund</string>
+    <string name="channel_description">blund</string>
+
+    <string name="timer_on">Start</string>
+    <string name="timer_off">Stop</string>
+    <string name="notification_title">Alarm</string>
+    <string name="notification_text">is ready!!</string>
+
+    <string name="fcm_message">FCM Message</string>
+    <string name="message_subscribe_failed">Failed to subscribe to topic</string>
+    <string name="message_subscribed">Subscribed to topic</string>
+    <string name="notification_channel_id" translatable="false">blund_channel</string>
+    <string name="notification_channel_name" translatable="true">Blund</string>
+    <string name="breakfast_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="breakfast_notification_channel_name" translatable="true">Morning</string>
+    <string name="ready">Time to wake up!</string>
+    <string name="timer_running">timer is running...</string>
+    <string name="notification_channel_description">reminder</string>
+    <string name="snooze">Stop Alarm</string>
+</resources>
