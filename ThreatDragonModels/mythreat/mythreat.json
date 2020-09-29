@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "mythreat",
+    "owner": "hardy"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "mydiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
