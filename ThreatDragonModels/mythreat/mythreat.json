@@ -9,7 +9,51 @@
       {
         "title": "mydiagram",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "id": 0,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "x": 380,
+                "y": 60
+              },
+              "target": {
+                "x": 488,
+                "y": 61
+              },
+              "vertices": [],
+              "id": "315df0c7-faaa-4630-9563-e0e923d54284",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "1. Auth",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 1,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790.1723022460938
+        }
       }
     ]
   }
